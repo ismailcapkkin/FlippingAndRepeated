@@ -1,0 +1,11 @@
+C:\Users\Ismail\source\repos\Flip_Repeated\Flip_Repeated\obj\Debug\netcoreapp2.1\Flip_Repeated.csprojAssemblyReference.cache
+C:\Users\Ismail\source\repos\Flip_Repeated\Flip_Repeated\obj\Debug\netcoreapp2.1\Flip_Repeated.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\source\repos\Flip_Repeated\Flip_Repeated\obj\Debug\netcoreapp2.1\Flip_Repeated.AssemblyInfoInputs.cache
+C:\Users\Ismail\source\repos\Flip_Repeated\Flip_Repeated\obj\Debug\netcoreapp2.1\Flip_Repeated.AssemblyInfo.cs
+C:\Users\Ismail\source\repos\Flip_Repeated\Flip_Repeated\bin\Debug\netcoreapp2.1\Flip_Repeated.deps.json
+C:\Users\Ismail\source\repos\Flip_Repeated\Flip_Repeated\bin\Debug\netcoreapp2.1\Flip_Repeated.runtimeconfig.json
+C:\Users\Ismail\source\repos\Flip_Repeated\Flip_Repeated\bin\Debug\netcoreapp2.1\Flip_Repeated.runtimeconfig.dev.json
+C:\Users\Ismail\source\repos\Flip_Repeated\Flip_Repeated\bin\Debug\netcoreapp2.1\Flip_Repeated.dll
+C:\Users\Ismail\source\repos\Flip_Repeated\Flip_Repeated\bin\Debug\netcoreapp2.1\Flip_Repeated.pdb
+C:\Users\Ismail\source\repos\Flip_Repeated\Flip_Repeated\obj\Debug\netcoreapp2.1\Flip_Repeated.dll
+C:\Users\Ismail\source\repos\Flip_Repeated\Flip_Repeated\obj\Debug\netcoreapp2.1\Flip_Repeated.pdb
